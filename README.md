@@ -2,7 +2,7 @@
 
 > Mod By Canwdev
 
-ROM下载：[A5CNB19_update_CanwdevMod](./dist/A5CNB19_update_CanwdevMod_M3.zip)
+ROM下载：[A5CNB19_update_CanwdevMod](https://github.com/canwdev/nokia-n1-custom-rom/releases/download/V1/A5CNB19_update_CanwdevMod_M3.zip)
 
 ## 改进
 
@@ -32,7 +32,7 @@ ROM下载：[A5CNB19_update_CanwdevMod](./dist/A5CNB19_update_CanwdevMod_M3.zip)
 推荐使用的Recovery：
 
 - [twrp2.8.7.1-nokia-n1-zh.img](https://github.com/sukanka/NokiaN1Root/blob/master/twrp2.8.7.1-nokia-n1-zh.img)
-- [twrp2.8.7.1-nokia-n1-mod-v4-A5CNB19(自改美化版)](./dist/twrp2.8.7.1-nokia-n1-mod-v4-A5CNB19.img)
+- [twrp2.8.7.1-nokia-n1-mod-v4-A5CNB19(美化版)](https://github.com/canwdev/nokia-n1-custom-rom/releases/download/V1/twrp2.8.7.1-nokia-n1-mod-v4-A5CNB19.img)
 
 ## 参考教程
 
