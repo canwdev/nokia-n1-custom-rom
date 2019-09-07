@@ -13,9 +13,9 @@ ROM下载：[A5CNB19_update_CanwdevMod](https://github.com/canwdev/nokia-n1-cust
     - 应用商店(已无法连接服务器)、客户服务
     - 重命名为.bak：浏览器、系统更新、Zlauncher
 - 替换部分APP为台版的内置APP或 CyanogenMod App，功能更齐全
-    - 加入：终端模拟器、RootExplorer、MagiskManager、CM壁纸、Trebuchet启动器
-    - 替换：CM图库、Applo音乐播放器、Chrome浏览器、CM计算器、谷歌相机、时钟、原生Launcher2启动器
-    - 美化：替换开机动画为CM11、替换字体为 Android6.0 系统字体
+    - 加入：终端模拟器、RootExplorer、MagiskManager、CM壁纸、Trebuchet
+    - 替换：CM图库、Apollo、Chrome、CM计算器、谷歌相机、时钟、原生Launcher2
+    - 美化：替换开机动画为CM11、替换字体为 Android6 系统字体
 
 ## 截图
 
